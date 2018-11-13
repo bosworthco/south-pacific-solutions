@@ -1,0 +1,71 @@
+.goFooter {
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #cccccc;
+    background-color: #dfdfdf;
+}
+.goLink {
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	line-height: 15px;
+        background-color: #aaaaaa;
+}
+.goLink2 {
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	line-height: 15px;
+    background-color: #ffffff;
+}
+.goBox {
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	line-height: 15px;
+    background-color: #eeeeee;
+	border: 1px groove #ccdd00;
+}
+.goSet {
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	line-height: 20px;
+    background-color: #cccccc;
+    border: 1px dotted #eaeaea;
+    text-align: justify;
+}
+.goMain {
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+    line-height: 18px;
+    background-color: #ffffff;
+}
+.goMain2 {
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #888888;
+    line-height: 14px;
+    background-color: #ffffff;
+}
+.goMain3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #888888;
+    line-height: 12px;
+    background-color: #ffffff;			
+}
+body {background-color: #ffffff;
+}
+BODY 
+{ 
+	scrollbar-face-color: #555555;
+	scrollbar-shadow-color: #EAEAEA;
+	scrollbar-highlight-color: #EAEAEA;
+	scrollbar-3dlight-color: #EAEAEA;
+	scrollbar-darkshadow-color: #697074;
+	scrollbar-track-color: #000000;
+	scrollbar-arrow-color: #666666;
+}
+A { background-color: oblique; color: #000000; letter-spacing: normal; font-family: verdana, arial, serif; font-weight: normal; font-variant: normal; font-size: 11px; font-style: normal; text-decoration: none; text-transform: bold; } A:hover { background-color: oblique; color: #cc0000; letter-spacing: normal; font-family: verdana, arial, verdana; none; font-weight: normal; font-variant: normal; font-size: 11px; font-style: normal; text-decoration: normal; text-transform: none; } 
